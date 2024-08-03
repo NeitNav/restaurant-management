@@ -242,7 +242,7 @@ const EmployeeManagement = () => {
                                 Hủy
                             </Button>
                             <Button variant="primary" type="submit">
-                                {isEditing ? 'Cập Nhật' : 'Thêm'}
+                                {isEditing ? 'Cập Nhật' : 'Thêmmmm'}
                             </Button>
                         </div>
                     </Form>
